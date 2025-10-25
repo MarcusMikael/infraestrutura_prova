@@ -1,8 +1,14 @@
+# Ignorar diretórios e arquivos do Terraform
 .terraform/
 *.tfstate
 *.tfstate.backup
+.terraform.lock.hcl
+
+# Cache e arquivos temporários do Python
 __pycache__/
-*.log
 *.pyc
-*.pyo
-.env
+
+# Logs e arquivos de sistema
+*.log
+.DS_Store
+
