@@ -1,4 +1,4 @@
-# 🧩 Atividade Avaliativa — Infraestrutura de Aplicações (Flask, Docker, K8s e Terraform)
+# 🧩 Atividade Avaliativa — Infraestrutura de TI (Flask, Docker, K8s e Terraform)
 
 ## 🚀 Objetivo da Atividade
 Este projeto tem como objetivo demonstrar o uso de **Infraestrutura como Código (IaC)**, **conteneirização** e **deploy local em Kubernetes**, utilizando:
